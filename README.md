@@ -166,6 +166,7 @@ Commercial platforms for player scouting, recruitment and performance analysis.
 
 MCP servers, agent plugins and AI assistants for working with football data.
 
+- [442ball MCP](https://442ball.com/en/ai) - Remote MCP server that lets AI assistants query weekly club Power Ratings, league strength rankings and unbeaten runs, with each answer linking to its source page. `Free`
 - [Football Data MCP](https://www.kupsas.com/football-data-mcp) - MCP server that lets AI assistants query player stats, xG and shot maps for 10 leagues. `Free` · [Details](https://sportsdatastack.com/tools/football-data-mcp/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [football-blueprints](https://github.com/opengoalapp/football-blueprints) - Catalogue of football analytics project ideas written as prompts for AI coding agents. `Free` · [Details](https://sportsdatastack.com/tools/football-blueprints/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
 - [football-docs](https://nutmeg.withqwerty.com/football-docs/) - MCP server with searchable docs for 31 football data providers and libraries, plus metric definitions. `Free` · [Details](https://sportsdatastack.com/tools/football-docs/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-soccer-data)
